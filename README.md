@@ -56,3 +56,4 @@ Confirmed date (Sept 12, 2026), time (7:30 PM), guest count (2 People), and tabl
 Actions: Secondary Cancel button and primary Checkout trigger.
 
 File Structure
+[figma link] https://www.figma.com/design/WvkiIuqg6b4A9tGNXDKlWU/resturant-reservation?node-id=10-53&t=Y2J9NeJMYNe24b7D-0
